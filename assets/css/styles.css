@@ -1,4 +1,3 @@
-@ -1,1262 +0,0 @@
 /*==================== GOOGLE FONTS ====================*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
@@ -10,20 +9,19 @@
     /*========== Colors ==========*/
     /* Change favorite color */
 
-    /* Updated color definitions based on CV colors */
-    --first-color: hsl(197, 73%, 38%); /* Main color */
-    --first-color-second: hsl(197, 73%, 33%); /* Slightly darker shade */
-    --first-color-alt: hsl(197, 73%, 43%); /* Slightly lighter shade */
-    --first-color-lighter: hsl(197, 73%, 48%); /* Even lighter shade */
-    --title-color: hsl(207, 12%, 32%); /* Darker color for titles */
-    --text-color: hsl(207, 12%, 42%); /* Standard text */
-    --text-color-light: hsl(207, 12%, 52%); /* Lighter text */
-    --input-color: hsl(0, 0%, 95%); /* Very light background */
-    --body-color: hsl(0, 0%, 98%); /* Almost white */
-    --container-color: hsl(0, 0%, 100%); /* Pure white for containers */
-    --scroll-bar-color: hsl(197, 73%, 58%); /* Light teal for scrollbar */
-    --scroll-thumb-color: hsl(197, 73%, 48%); /* Medium teal for scroll thumb */
-
+    /* Updated color definitions for teal */
+    --first-color: hsl(180, 20%, 50%); /* Main teal color */
+    --first-color-second: hsl(180, 20%, 45%); /* Slightly darker shade for contrast */
+    --first-color-alt: hsl(180, 20%, 55%); /* Slightly lighter shade for hover states, etc. */
+    --first-color-lighter: hsl(180, 20%, 60%); /* Even lighter shade for backgrounds or highlights */
+    --title-color: hsl(180, 15%, 20%); /* Dark teal for text titles */
+    --text-color: hsl(180, 15%, 40%); /* Darker teal for standard text */
+    --text-color-light: hsl(180, 15%, 60%); /* Lighter teal for less prominent text */
+    --input-color: hsl(180, 15%, 95%); /* Very light teal for input backgrounds */
+    --body-color: hsl(180, 15%, 98%); /* Almost white with a hint of teal for background */
+    --container-color: #FFF; /* Pure white for containers */
+    --scroll-bar-color: hsl(180, 20%, 80%); /* Light teal for scrollbar */
+    --scroll-thumb-color: hsl(180, 20%, 70%); /* Medium teal for scroll thumb */
 
 
     /*========== Font and typography ==========*/
