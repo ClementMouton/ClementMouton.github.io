@@ -10,10 +10,10 @@
     /* Change favorite color */
 
     /* Updated color definitions for teal */
-    --first-color: hsl(180, 20%, 50%); /* Main teal color */
-    --first-color-second: hsl(180, 20%, 45%); /* Slightly darker shade for contrast */
-    --first-color-alt: hsl(180, 20%, 55%); /* Slightly lighter shade for hover states, etc. */
-    --first-color-lighter: hsl(180, 20%, 60%); /* Even lighter shade for backgrounds or highlights */
+    --first-color: hsl(197, 73%, 38%); /* Main teal color */
+    --first-color-second: hsl(197, 73%, 33%); /* Slightly darker shade for contrast */
+    --first-color-alt: hsl(197, 73%, 43%); /* Slightly lighter shade for hover states, etc. */
+    --first-color-lighter: hsl(197, 73%, 48%); /* Even lighter shade for backgrounds or highlights */
     --title-color: hsl(180, 15%, 20%); /* Dark teal for text titles */
     --text-color: hsl(180, 15%, 40%); /* Darker teal for standard text */
     --text-color-light: hsl(180, 15%, 60%); /* Lighter teal for less prominent text */
